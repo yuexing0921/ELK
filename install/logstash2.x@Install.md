@@ -35,3 +35,5 @@ cd logstash-2.3.3 && bin/logstash -e 'input{stdin{}}output{stdout{codec=>rubydeb
 
 ### [elasticsearch 2.3.3安装教程](https://github.com/yuexing0921/ELK/blob/master/install/es2.x@Install.md)
 ### [kibana 4.5.1安装教程](https://github.com/yuexing0921/ELK/blob/master/install/kibana4.x@Install.md)
+
+## [回到主页](https://github.com/yuexing0921/ELK/blob/master/README.md)
