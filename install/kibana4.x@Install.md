@@ -26,3 +26,6 @@ cd kibana-4.5.1-linux-x64 && bin/kibana
 ```
 ![img](https://github.com/yuexing0921/ELK/blob/master/img/init-runing-kibana.png)
 出现上面的界面，说明kibana安装成功了
+
+### [elasticsearch 2.3.3安装教程](https://github.com/yuexing0921/ELK/blob/master/install/es2.x@Install.md)
+### [logstash 2.3.3安装教程](https://github.com/yuexing0921/ELK/blob/master/install/logstash2.x@Install.md)

@@ -45,3 +45,6 @@ curl localhost:9200
 
 ```
 到这里elasticsearch安装已经成功
+
+### [kibana 4.5.1安装教程](https://github.com/yuexing0921/ELK/blob/master/install/kibana4.x@Install.md)
+### [logstash 2.3.3安装教程](https://github.com/yuexing0921/ELK/blob/master/install/logstash2.x@Install.md)
