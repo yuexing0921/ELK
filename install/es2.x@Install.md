@@ -22,7 +22,7 @@ cd elasticsearch-2.3.3 && bin/elasticsearch  -d
 
 ```
 
-> 说明：bin/elasticsearch  -d 是代表在后台执行
+> 说明：bin/elasticsearch  -d 是代表守护进程模式运行
 
 4.测试是否运行成功
 ```
